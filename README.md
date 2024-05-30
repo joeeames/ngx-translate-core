@@ -60,6 +60,27 @@ Choose the version corresponding to your Angular version:
  4.3           | 7.x or less         | 1.x to 2.x
  2 to 4.2.x    | 7.x or less         | 0.x
 
+ ## Support
+
+We will release bug and security fixes for the current version (15). The prvious version (v14) will be end of life on December 1, 2024 and will no longer receive bug or security fixes. 
+
+Our partner, HeroDevs provides commercial security fixes for all unsupported versions https://herodevs.com/nes.
+
+Version Support
+
+ Version | Supported? | End of Life Date | Commercial Support
+ ------------- |---------------------| -------------------------- |---------------------
+ 15               | YES
+ 14               | YES | Dec 1, 2024 | [`Available Here`](https://herodevs.com/nes)
+ 13               | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 12               | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 11               | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 10               | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 9              | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 8         | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 7        | NO |  | [`Available Here`](https://herodevs.com/nes)
+
+
 
 ## Usage
 
