@@ -68,17 +68,17 @@ Our partner, HeroDevs provides commercial security fixes for all unsupported ver
 
 Version Support
 
- Version | Supported? | End of Life Date | Commercial Support
- ------------- |---------------------| -------------------------- |---------------------
+ Version | Supported? |  Commercial Support
+ ------------- |---------------------|---------------------
  15               | YES
- 14               | YES | Dec 1, 2024 | [`Available Here`](https://herodevs.com/nes)
- 13               | NO |  | [`Available Here`](https://herodevs.com/nes)
- 12               | NO |  | [`Available Here`](https://herodevs.com/nes)
- 11               | NO |  | [`Available Here`](https://herodevs.com/nes)
- 10               | NO |  | [`Available Here`](https://herodevs.com/nes)
- 9              | NO |  | [`Available Here`](https://herodevs.com/nes)
- 8         | NO |  | [`Available Here`](https://herodevs.com/nes)
- 7        | NO |  | [`Available Here`](https://herodevs.com/nes)
+ 14               | UNTIL Dec 1, 2024 | [`Available Here`](https://herodevs.com/nes)
+ 13               | NO | [`Available Here`](https://herodevs.com/nes)
+ 12               | NO | [`Available Here`](https://herodevs.com/nes)
+ 11               | NO | [`Available Here`](https://herodevs.com/nes)
+ 10               | NO | [`Available Here`](https://herodevs.com/nes)
+ 9              | NO | [`Available Here`](https://herodevs.com/nes)
+ 8         | NO | [`Available Here`](https://herodevs.com/nes)
+ 7        | NO | [`Available Here`](https://herodevs.com/nes)
 
 
 
