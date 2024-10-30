@@ -73,16 +73,8 @@ Version Support
  18               | YES
  17               | YES
  16               | YES
- 15               | NO | [`Available Here`](https://herodevs.com/nes)
- 14               | NO | [`Available Here`](https://herodevs.com/nes)
- 13               | NO | [`Available Here`](https://herodevs.com/nes)
- 12               | NO | [`Available Here`](https://herodevs.com/nes)
- 11               | NO | [`Available Here`](https://herodevs.com/nes)
- 10               | NO | [`Available Here`](https://herodevs.com/nes)
- 9              | NO | [`Available Here`](https://herodevs.com/nes)
- 8         | NO | [`Available Here`](https://herodevs.com/nes)
- 7        | NO | [`Available Here`](https://herodevs.com/nes)
-
+ 15 and below               | NO | [`Available Here`](https://herodevs.com/nes)
+ 
 
 
 ## Usage
