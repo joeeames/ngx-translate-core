@@ -62,7 +62,7 @@ Choose the version corresponding to your Angular version:
 
  ## Support
 
-We will release bug and security fixes for the current version (15). The prvious version (v14) will be end of life on December 1, 2024 and will no longer receive bug or security fixes. 
+We will release bug and security fixes for the current version (v15). The prvious versions are EOL and will no longer receive bug or security fixes. 
 
 Our partner, HeroDevs provides commercial security fixes for all unsupported versions https://herodevs.com/nes.
 
@@ -70,10 +70,8 @@ Version Support
 
  Version | Supported? |  Commercial Support
  ------------- |---------------------|---------------------
- 18               | YES
- 17               | YES
- 16               | YES
- 15 and below               | NO | [`Available Here`](https://herodevs.com/nes)
+ 15               | YES
+ 14 and below               | NO | [`Available Here`](https://herodevs.com/nes)
  
 
 
